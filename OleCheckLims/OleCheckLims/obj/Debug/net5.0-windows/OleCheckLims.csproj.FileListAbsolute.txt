@@ -1,0 +1,4 @@
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\Debug\net5.0-windows\View\OleCheckLims.g.cs
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\Debug\net5.0-windows\OleCheckLims_MarkupCompile.cache
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\Debug\net5.0-windows\OleCheckLims_MarkupCompile.lref

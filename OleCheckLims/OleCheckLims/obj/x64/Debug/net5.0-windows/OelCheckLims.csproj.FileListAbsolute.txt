@@ -1,0 +1,64 @@
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.exe
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.dll.config
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.deps.json
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.runtimeconfig.json
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.runtimeconfig.dev.json
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\ref\OelCheckLims.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.pdb
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\App.g.cs
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims_MarkupCompile.cache
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims_MarkupCompile.lref
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.g.resources
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.AssemblyInfoInputs.cache
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.AssemblyInfo.cs
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.CoreCompileInputs.cache
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.CopyComplete
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\ref\OelCheckLims.dll
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.pdb
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.genruntimeconfig.cache
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\View\OelCheckLimsMain.g.cs
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\View\OelCheckLimsMain.baml
+C:\Users\Bertram\source\repos\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.AssemblyReference.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.exe
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.dll.config
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.deps.json
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.runtimeconfig.json
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.runtimeconfig.dev.json
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\OelCheckLims.pdb
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\EntityFramework.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\bin\x64\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.AssemblyReference.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\View\OelCheckLimsMain.g.cs
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\App.g.cs
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims_MarkupCompile.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims_MarkupCompile.lref
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\View\OelCheckLimsMain.baml
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.g.resources
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.AssemblyInfoInputs.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.AssemblyInfo.cs
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.CoreCompileInputs.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.csproj.CopyComplete
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\refint\OelCheckLims.dll
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.pdb
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\OelCheckLims.genruntimeconfig.cache
+E:\.Net Demo Projects\OleCheckLims\OleCheckLims\OleCheckLims\obj\x64\Debug\net5.0-windows\ref\OelCheckLims.dll

@@ -1,0 +1,83 @@
+﻿<Window x:Class="OelCheckLims.OelCheckLimsMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OelCheckLims"
+        mc:Ignorable="d"
+        Title="OelCheckLimsSolution" Height="600" Width="900" Background="LightBlue">
+    <Grid Height="574" VerticalAlignment="Bottom" Margin="10,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <ContentPresenter Name="SelectedItem" Visibility="Hidden" />
+        <TreeView Name="treeView" HorizontalAlignment="Left" Height="800" Grid.Column="0"   Grid.Row="0" Margin="10,10,0,0" VerticalAlignment="Top" SelectedItemChanged="OnTreeViewSelectedItemChanged" Width="100" ItemsSource="{Binding Items}">
+            <TreeView.ItemTemplate >
+                <HierarchicalDataTemplate ItemsSource="{Binding Items}">
+                    <TextBlock Text="{Binding Name}" />
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+        <StackPanel Margin="100">
+
+            <DataGrid x:Name="DataGridSample" Width="100" Height="500" Margin="111,0,0,0" AutoGenerateColumns="False" Grid.Row="0" Grid.ColumnSpan="2"
+                  ItemsSource="{Binding DataContext.SampleList}"
+                  HorizontalAlignment="Left"
+                  HorizontalScrollBarVisibility="Hidden"
+                  VerticalScrollBarVisibility="Hidden">
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="LayoutTransform">
+                            <Setter.Value>
+                                <TransformGroup>
+                                    <RotateTransform Angle="90"/>
+                                </TransformGroup>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Property="Width" Value="100"/>
+                        <Setter Property="Height" Value="30"/>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.LayoutTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="-90"/>
+                    </TransformGroup>
+                </DataGrid.LayoutTransform>
+                <DataGrid.CellStyle>
+                    <Style TargetType="{x:Type DataGridCell}">
+                        <Setter Property="LayoutTransform">
+                            <Setter.Value>
+                                <TransformGroup>
+                                    <RotateTransform Angle="90"/>
+                                </TransformGroup>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Property="Width" Value="360"/>
+                        <Setter Property="Height" Value="30"/>
+                    </Style>
+                </DataGrid.CellStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Test Class" Binding="{Binding TestClass}" />
+                    <DataGridTextColumn Header="Received Date" Binding="{Binding ReceivedDate}"/>
+                    <DataGridTextColumn Header="Hint" Binding="{Binding Hint}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Grid Name="gridSampleList" Background="White" ShowGridLines="True" Margin="225,144,15,164" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </Grid>
+</Window>
